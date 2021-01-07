@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+  <student>
+  <no>190031168</no>
+  <name>Tejaswini</name>
+  <email>np@gmail.com</email>
+  <marks>95</marks>
+  <class>A</class>
+  </student>
+  <student>
+  <no>190030121</no>
+  <name>Aruna</name>
+  <email>a@gmail.com</email>
+  <marks>92</marks>
+  <class>B</class>
+  </student>
+  <student>
+  <no>190030129</no>
+  <name>Likitha</name>
+  <email>l@gmail.com</email>
+  <marks>94</marks>
+  <class>A</class>
+  </student>
+  <student>
+  <no>190030310</no>
+  <name>sadhvi</name>
+  <email>s@gmail.com</email>
+  <marks>96</marks>
+  <class>A</class>
+  </student>
+  <student>
+  <no>190030340</no>
+  <name>Priya</name>
+  <email>p@gmail.com</email>
+  <marks>97</marks>
+  <class>A</class>
+  </student>
+</Students>
